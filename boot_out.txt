@@ -1,0 +1,3 @@
+Adafruit CircuitPython 8.2.0-rc.0 on 2023-06-23; M5Stack Core2 with ESP32
+Board ID:m5stack_core2
+UID:427DBE833ECC

@@ -1,0 +1,4 @@
+CIRCUITPY_WIFI_SSID = "nuthouse_11ac_2g"
+CIRCUITPY_WIFI_PASSWORD = "hugdugmug"
+CIRCUITPY_WEB_API_PASSWORD= "webpassword"
+MQTT="mqtt.localnet"
